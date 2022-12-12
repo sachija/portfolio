@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.66ca5ae8.css",
+    "main.js": "/static/js/main.ea026f45.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Rapp.png": "/static/media/Rapp.ea701b361b4c65b427e2.png",
+    "static/media/clock.png": "/static/media/clock.4c8175a41ad0df2a4e10.png",
+    "static/media/back.png": "/static/media/back.a41660212655bb23e69b.png",
+    "static/media/backendd.png": "/static/media/backendd.74de0aed336a4b010f7c.png",
+    "static/media/girl.png": "/static/media/girl.19a2309d9a9187c70289.png",
+    "static/media/webb.png": "/static/media/webb.03bdeadcf6ae3cd33507.png",
+    "static/media/todoapp.png": "/static/media/todoapp.c0476bec18fa13ed6174.png",
+    "static/media/todo.png": "/static/media/todo.92ded16df9497f42c3b9.png",
+    "static/media/resumee.pdf": "/static/media/resumee.c74e0d3c9efab0d790be.pdf",
+    "index.html": "/index.html",
+    "main.66ca5ae8.css.map": "/static/css/main.66ca5ae8.css.map",
+    "main.ea026f45.js.map": "/static/js/main.ea026f45.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66ca5ae8.css",
+    "static/js/main.ea026f45.js"
+  ]
+}

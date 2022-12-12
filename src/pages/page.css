@@ -1,0 +1,241 @@
+.Home {
+    display: flex;
+    justify-content: space-between;
+}
+
+.div__left {
+    margin-left: 7vw;
+    margin-top: 20vh;
+    animation: left 3s 1s linear;
+}
+
+@keyframes left {
+    0% {
+        left: 0px;
+        top: 0px;
+    }
+
+    100% {
+        left: 100%;
+        top: 0px
+    }
+}
+
+.div__left h1 {
+    font-size: 50px;
+}
+
+.div__left h2 {
+    font-size: 40px;
+}
+
+.div__left button {
+
+    background-color: transparent;
+    font-size: 31px;
+    cursor: pointer;
+    width: 290px;
+    height: 50px;
+    border-radius: 10px;
+    border: 2px solid blueviolet;
+    position: relative;
+    padding-left: 0px;
+
+}
+
+.div__rigth {
+    margin-top: 20vh;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+
+}
+
+.div__rigth img {
+    height: 25em;
+    width: 20em;
+    border-radius: 5%;
+    position: absolute;
+    width: 500px;
+    margin-left: -90px;
+
+
+}
+
+.About__first {
+    margin-top: 5vh;
+    width: 60vw;
+}
+
+.About__first h1 {
+    font-size: 50px;
+}
+
+.About__second h1 {
+    font-size: 50px;
+}
+
+.About__first p {
+    font-size: 20px;
+}
+
+.About__second {
+    margin-top: 5vh;
+}
+
+.stack {
+    margin-top: 5vh;
+    display: flex;
+    justify-content: space-between;
+}
+
+.stack {
+    font-weight: bold;
+}
+
+.prep {
+    margin-top: 10px;
+    display: flex;
+}
+
+.prep p {
+    margin-left: 20px;
+}
+
+.card__section {
+    display: flex;
+}
+
+.contect {
+    text-align: center;
+    margin-top: 20vh;
+}
+
+.contect h1 {
+    font-size: 70px;
+}
+
+.contect p {
+    font-size: 25px;
+}
+
+.projectCards {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+
+.head {
+    font-size: 60px;
+}
+
+.detals {
+    display: grid;
+    justify-content: space-between;
+    grid-template-columns: 30% 30% 30%;
+    flex-wrap: wrap;
+    grid-gap: 50px;
+}
+
+.technology {
+    margin-top: 5vh;
+}
+
+.technology h1 {
+    font-size: 50px;
+}
+
+.tech {
+    margin-top: 5vh;
+    display: flex;
+    justify-content: space-around;
+}
+
+.tools {
+    margin-top: 5vh;
+
+}
+
+.girl {
+    width: 400px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+
+.tools h1 {
+    font-size: 50px;
+}
+
+.tools__img {
+    margin-top: 5vh;
+    display: flex;
+    height: 115px;
+   
+    justify-content: space-around;
+}
+
+.arrow {
+    height: 30px;
+   
+    margin-top: -25px;
+    padding-top: 30px;
+    size: 33px;
+    position: absolute;
+}
+
+.css {
+    height: 100px;
+    width: 100px;
+}
+
+.css1 {
+    background-color: white;
+    height: 100px;
+    width: 100px;
+}
+
+.texxt {
+    width: 200px;
+    height: 20px;
+    justify-content: center;
+}
+
+.texx {
+    width: 200px;
+    height: 50px;
+}
+
+.submit {
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: green;
+}
+
+.con {
+    margin-top: -80px;
+}
+
+.social {
+
+
+    width: 250px;
+    height: 80px;
+
+    margin-left: 200px;
+
+
+}
+
+.social ul {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 180px;
+
+}
+
+.social ul li {
+    padding-left: 30px;
+}
